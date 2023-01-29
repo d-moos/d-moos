@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently getting into the ![Move Virtual Machine](https://github.com/move-language) and the ![SUI Blockchain](https://www.sui.io).
+I'm currently getting into the [Move Virtual Machine](https://github.com/move-language) and the [SUI Blockchain](https://www.sui.io).
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-moos/)
