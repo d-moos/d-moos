@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently getting into the areas of the [Move Virtual Machine](https://github.com/move-language) and the [SUI Blockchain](https://www.sui.io).
+I'm currently getting into the area of the [Move Virtual Machine](https://github.com/move-language) and the [SUI Blockchain](https://www.sui.io).
 
 Interested in how to parse a compiled `*.vm` file in C#? head over to the [Move Binary Format Reader](https://github.com/d-moos/move-binary-format-reader).  
 Do you want to interact with SUI fullnodes? why not try out the [SUI C# SDK](https://github.com/d-moos/SuiNet)?
