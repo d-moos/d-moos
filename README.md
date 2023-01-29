@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently getting into the ![Move Virtual Machine](https://github.com/move-language) and the ![SUI Blockchain](https://www.sui.io).
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-moos/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/174555098444333057)
+
 <!--
 **d-moos/d-moos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
