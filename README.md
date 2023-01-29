@@ -5,7 +5,7 @@ I'm currently getting into the area of the [Move Virtual Machine](https://github
 Interested in how to parse a compiled `*.vm` file in C#? head over to the [Move Binary Format Reader](https://github.com/d-moos/move-binary-format-reader).  
 Do you want to interact with SUI fullnodes? why not try out the [SUI C# SDK](https://github.com/d-moos/SuiNet)?
 
-**If you have open (full-time) opportunities in *any* Move ecosystem _(SUI, Aptos, ...)_, feel free to contact me through**  
+**If you have open (full-time) opportunities in *any* Move ecosystem (SUI, Aptos, ...), feel free to contact me**  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-moos/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/174555098444333057)
 
