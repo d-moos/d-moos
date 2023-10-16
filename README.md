@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a senior engineer currently transition from C# to Rust 
 
 C# / .NET:
 - [SuiNet](https://github.com/d-moos/SuiNet) is a .NET SDK for the SUI Blockchain
