@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a senior engineer currently transition from C# to Rust 
+I'm a senior engineer currently transitioning from C# to Rust 
 
 C# / .NET:
 - [SmoldotNET](https://github.com/PolkadotNET/SmoldotNet/tree/master/SmoldotNET) a .NET WebAssembly host implementation for the [Polkadot smoldot lightclient](https://github.com/smol-dot/smoldot)
